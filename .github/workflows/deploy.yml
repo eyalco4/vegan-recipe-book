@@ -23,7 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm install --no-audit --no-fund --fetch-retries=5 --fetch-retry-mintimeout=5000
+          cache: npm
+      - run: npm ci
         timeout-minutes: 5
       - run: npm test
       - run: npm run build
