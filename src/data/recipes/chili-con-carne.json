@@ -1,0 +1,40 @@
+{
+  "id": "chili-con-carne",
+  "title": "צ'ילי קון קרנה טבעוני",
+  "category": ["mexican", "main", "soup"],
+  "proteinType": ["plant_meat", "beans"],
+  "servings": 6,
+  "prepTimeMinutes": 120,
+  "ingredients": [
+    { "ingredientKey": "kidney_beans_cooked", "amount": 200, "unit": "g", "note": "כוס שעועית מושרית ומבושלת" },
+    { "ingredientKey": "olive_oil", "amount": 40, "unit": "ml", "note": "2-3 כפות" },
+    { "ingredientKey": "plant_ground_meat", "amount": 500, "unit": "g", "note": "תחליף בשר טחון מהצומח (למשל Redefine), במקום 500-700 גרם בשר טחון" },
+    { "ingredientKey": "onion", "amount": 150, "unit": "g" },
+    { "ingredientKey": "celery", "amount": 100, "unit": "g", "note": "2 גבעולים עם העלים" },
+    { "ingredientKey": "carrot", "amount": 150, "unit": "g", "note": "2 גזרים" },
+    { "ingredientKey": "garlic", "amount": 15, "unit": "g", "note": "3-6 שיני שום" },
+    { "ingredientKey": "bell_pepper", "amount": 240, "unit": "g", "note": "2 פלפלים אדומים" },
+    { "ingredientKey": "tomato", "amount": 200, "unit": "g", "note": "2 עגבניות, רשות" },
+    { "ingredientKey": "chili_pepper", "amount": 20, "unit": "g", "note": "1 פלפל חריף, רשות" },
+    { "ingredientKey": "cilantro", "amount": 15, "unit": "g", "note": "1/2 צרור, רשות" },
+    { "text": "1 כפית כמון טחון, 1 כפית צ'ילי כתוש חריף, 1 כפית פפריקה מתוקה, 1 כפית אורגנו מיובש, 1 כפית פפריקה מעושנת" },
+    { "ingredientKey": "cocoa_powder", "amount": 5, "unit": "g", "note": "כפית אבקת קקאו" },
+    { "ingredientKey": "canned_tomato", "amount": 30, "unit": "g", "note": "2 כפות רסק עגבניות" },
+    { "ingredientKey": "canned_tomato", "amount": 400, "unit": "g", "note": "קופסה קטנה עגבניות מרוסקות" },
+    { "text": "כפית מלח או יותר לפי הטעם" },
+    { "ingredientKey": "soy_sauce", "amount": 30, "unit": "ml", "note": "2 כפות, רשות" }
+  ],
+  "instructions": [
+    "משרים שעועית במים למשך הלילה, מסננים, מכסים ב-2 כוסות מים ומביאים לרתיחה. מכסים ומבשלים על להבה בינונית-גבוהה 30 דקות עד שהתרככה אך לא לגמרי",
+    "מחממים שמן בסיר ומוסיפים את תחליף הבשר הטחון. מטגנים תוך כדי ערבוב 8-10 דקות עד שמשחים",
+    "חותכים בצל, גזר ופלפלים לקוביות בגודל בינוני-קטן, קוצצים סלרי דק, פורסים שום וחותכים עגבניות לקוביות. אם משתמשים בכוסברה - קוצצים גבעולים דק ושומרים עלים להגשה",
+    "מוסיפים לסיר עם תחליף הבשר את הירקות ומטגנים על להבה גבוהה 5-8 דקות תוך כדי ערבוב",
+    "מערבבים את כל התבלינים והקקאו בקערית",
+    "מוסיפים לסיר את רסק העגבניות ומחצית מתערובת התבלינים, מגבירים להבה ומטגנים כדקה. מוסיפים שעועית (כולל מי הבישול), עגבניות בקוביות, רוטב סויה ועגבניות מרוסקות. מוסיפים מים לכיסוי בכ-3 ס\"מ מעל התכולה",
+    "מביאים לרתיחה ומתבלים במלח. מכסים ומבשלים על להבה בינונית-נמוכה שעה וחצי לפחות (עד 3 שעות), מערבבים כל 20 דקות ומוסיפים מים אם מתייבש",
+    "אפשרות תנור: מכסים את הסיר ואופים ב-160 מעלות שעה וחצי עד 3 שעות",
+    "מגישים עם אורז לבן או טורטיות, מקושט בכוסברה ופלפל חריף פרוס"
+  ],
+  "sourceUrl": "https://thekitchencoach.co.il/%D7%A6%D7%99%D7%9C%D7%99-%D7%A7%D7%95%D7%9F-%D7%A7%D7%A8%D7%A0%D7%94",
+  "sourceName": "The Kitchen Coach (עז תלם)"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "peanut-butter-miso-pasta",
+  "title": "פסטה ברוטב חמאת בוטנים ומיסו",
+  "category": ["pasta", "asian", "main"],
+  "proteinType": ["soy", "nuts_seeds"],
+  "servings": 4,
+  "prepTimeMinutes": 25,
+  "ingredients": [
+    { "ingredientKey": "onion", "amount": 100, "unit": "g", "note": "קצוץ" },
+    { "ingredientKey": "garlic", "amount": 5, "unit": "g", "note": "שן אחת, כתושה" },
+    { "ingredientKey": "tofu_firm", "amount": 150, "unit": "g", "note": "חתוך לקוביות, רשות" },
+    { "ingredientKey": "cherry_tomato", "amount": 150, "unit": "g" },
+    { "ingredientKey": "broccoli", "amount": 90, "unit": "g", "note": "חתוך לפרחים" },
+    { "ingredientKey": "peanut_butter", "amount": 30, "unit": "g", "note": "2 כפות" },
+    { "ingredientKey": "miso_paste", "amount": 30, "unit": "g", "note": "2 כפות, עדיף בהיר" },
+    { "ingredientKey": "soy_sauce", "amount": 60, "unit": "ml", "note": "4 כפות טמארי או רוטב סויה" },
+    { "ingredientKey": "rice_vinegar", "amount": 15, "unit": "ml", "note": "כף אחת" },
+    { "ingredientKey": "coconut_cream", "amount": 500, "unit": "ml" },
+    { "ingredientKey": "pasta_dry", "amount": 250, "unit": "g", "note": "לפי בחירה" }
+  ],
+  "instructions": [
+    "שמים את כל המרכיבים בסיר, מערבבים היטב ומביאים לרתיחה",
+    "מכסים ומבשלים על אש נמוכה כ-15-20 דקות עד שהפסטה מתרככת לגמרי",
+    "הפסטה משחררת עמילן לנוזל תוך כדי הבישול ויוצרת רוטב קרמי במיוחד"
+  ],
+  "sourceUrl": "https://theveganati.com/peanut-butter-miso-pasta/",
+  "sourceName": "The Vegan Ati"
+}

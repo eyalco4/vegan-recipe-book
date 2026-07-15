@@ -1,0 +1,36 @@
+{
+  "id": "thai-coconut-soup",
+  "title": "מרק תאילנדי טבעוני",
+  "category": ["asian", "soup", "main"],
+  "proteinType": ["soy"],
+  "servings": 4,
+  "prepTimeMinutes": 30,
+  "ingredients": [
+    { "ingredientKey": "sesame_oil", "amount": 15, "unit": "ml", "note": "כמה כפות" },
+    { "ingredientKey": "tofu_firm", "amount": 400, "unit": "g", "note": "חבילה חתוכה לקוביות" },
+    { "text": "2 גבעולי בצל ירוק קצוץ גס" },
+    { "ingredientKey": "bell_pepper", "amount": 120, "unit": "g", "note": "1 גמבה פרוסה דק" },
+    { "ingredientKey": "garlic", "amount": 10, "unit": "g", "note": "2 שיני שום כתושות" },
+    { "ingredientKey": "curry_paste", "amount": 30, "unit": "g", "note": "2 כפות משחת קארי אדום" },
+    { "ingredientKey": "ginger", "amount": 5, "unit": "g", "note": "כפית, מיובש או טרי מגורד" },
+    { "text": "3 כוסות מים, יותר במידת הצורך" },
+    { "ingredientKey": "coconut_cream", "amount": 400, "unit": "ml" },
+    { "ingredientKey": "bean_sprouts", "amount": 40, "unit": "g", "note": "חופן" },
+    { "ingredientKey": "noodles_cooked", "amount": 200, "unit": "g", "note": "אטריות לבחירה" },
+    { "ingredientKey": "cilantro", "amount": 10, "unit": "g", "note": "חופן, קצוץ גס" },
+    { "ingredientKey": "basil", "amount": 10, "unit": "g", "note": "חופן, קצוץ גס" }
+  ],
+  "instructions": [
+    "במחבת עמוקה ורחבה מחממים שמן שומשום",
+    "מטגנים את הטופו עד שהוא צרוב כהה",
+    "מוסיפים גמבה ובצל ירוק ומטגנים תוך כדי ערבוב",
+    "מוסיפים שום ומערבבים טוב",
+    "מוסיפים קארי, ג'ינג'ר ומים ומערבבים עד שמשחת הקארי מתערבבת לחלוטין",
+    "מוסיפים קרם קוקוס ומבשלים 3-4 דקות",
+    "מוסיפים נבטים ואטריות ומבשלים עד שהאטריות מתרככות",
+    "מוסיפים כוסברה ובזיליקום, מערבבים ומורידים מהאש",
+    "מגישים עם מעט כוסברה מעל, ואפשר להוסיף צ'ילי אדום טרי ומיץ לימון/ליים"
+  ],
+  "sourceUrl": "https://tivoneat.co.il/thai-coconut-soup/",
+  "sourceName": "TivonEat"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dal-makhani",
+  "title": "תבשיל עדשים טבעוני (דאל מקאני)",
+  "category": ["indian", "main", "soup"],
+  "proteinType": ["lentils", "beans"],
+  "servings": 5,
+  "prepTimeMinutes": 75,
+  "ingredients": [
+    { "ingredientKey": "coconut_oil", "amount": 3, "unit": "tbsp" },
+    { "ingredientKey": "onion", "amount": 150, "unit": "g", "note": "בצל גדול קצוץ" },
+    { "ingredientKey": "garlic", "amount": 10, "unit": "g", "note": "2 שיני שום כתושות" },
+    { "ingredientKey": "ginger", "amount": 15, "unit": "g", "note": "כתוש, לא חובה" },
+    { "text": "1 כפית כמון, 1 כפית פפריקה, 2 כפיות תבלין קארי, מלח ופלפל לפי הטעם" },
+    { "ingredientKey": "tomato", "amount": 300, "unit": "g", "note": "3 עגבניות בשלות קצוצות דק" },
+    { "ingredientKey": "lentils_cooked", "amount": 300, "unit": "g", "note": "עדשים שחורות מוכנות לאכילה" },
+    { "ingredientKey": "black_beans_cooked", "amount": 200, "unit": "g" },
+    { "ingredientKey": "kidney_beans_cooked", "amount": 200, "unit": "g" },
+    { "ingredientKey": "coconut_cream", "amount": 240, "unit": "ml", "note": "1 כוס" },
+    { "ingredientKey": "canned_tomato", "amount": 45, "unit": "g", "note": "3 כפות רסק עגבניות אורגני" },
+    { "text": "מים לפי הצורך" },
+    { "text": "לקישוט: פטרוזיליה קצוצה ו-2 כפות קרם קוקוס" }
+  ],
+  "instructions": [
+    "מחממים שמן קוקוס במחבת עמוקה ורחבה",
+    "מוסיפים בצל ומטגנים עד שזהוב",
+    "מוסיפים שום, ג'ינג'ר ותבלינים ומטגנים יחד 1-2 דקות",
+    "מוסיפים עגבניות ומבשלים תוך כדי ערבוב 4-5 דקות עד שסמיך ואחיד",
+    "מוסיפים כוס מים ומבשלים עוד כמה רגעים",
+    "מוסיפים עדשים ושעועית ומערבבים היטב",
+    "מוסיפים עוד כוס מים ורסק עגבניות ומערבבים היטב",
+    "מוסיפים קרם קוקוס ומערבבים היטב",
+    "מכסים ומבשלים על אש נמוכה כשעה, מערבבים מדי פעם ומוסיפים נוזלים לפי הצורך",
+    "מגישים מקושט בפטרוזיליה קצוצה ומעט קרם קוקוס"
+  ],
+  "sourceUrl": "https://tivoneat.co.il/vegan-dal-makhani/",
+  "sourceName": "TivonEat"
+}

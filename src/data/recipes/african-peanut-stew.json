@@ -1,0 +1,35 @@
+{
+  "id": "african-peanut-stew",
+  "title": "תבשיל חמאת בוטנים אפריקאי",
+  "category": ["african", "main", "soup"],
+  "proteinType": ["soy", "nuts_seeds"],
+  "servings": 4,
+  "prepTimeMinutes": 35,
+  "ingredients": [
+    { "ingredientKey": "onion", "amount": 150, "unit": "g", "note": "חתוך דק" },
+    { "ingredientKey": "ginger", "amount": 15, "unit": "g", "note": "כף טרי קצוץ" },
+    { "ingredientKey": "canned_tomato", "amount": 45, "unit": "g", "note": "3 כפות רסק עגבניות" },
+    { "ingredientKey": "sweet_potato", "amount": 300, "unit": "g", "note": "קלופה חתוכה לקוביות" },
+    { "text": "1/2 כפית פלפל לבן (רשות), מלח לפי הטעם" },
+    { "ingredientKey": "peanut_butter", "amount": 260, "unit": "g", "note": "כוס אחת, ללא חתיכות" },
+    { "ingredientKey": "spinach", "amount": 200, "unit": "g", "note": "עלי בייבי" },
+    { "ingredientKey": "tofu_firm", "amount": 300, "unit": "g", "note": "חתוך לקוביות, מעושן - רשות" },
+    { "ingredientKey": "olive_oil", "amount": 15, "unit": "ml", "note": "לטיגון" },
+    { "text": "5-6 כוסות מים" },
+    { "text": "להגשה: חופן בוטנים קלויים שבורים וחופן כוסברה קצוצה" }
+  ],
+  "instructions": [
+    "מחממים שמן במחבת עמוקה וגדולה",
+    "מוסיפים בצל ומערבבים כמה רגעים",
+    "מוסיפים ג'ינג'ר ומטגנים עד שהבצל מזהיב",
+    "מוסיפים רסק עגבניות ומערבבים 3-4 דקות",
+    "מוסיפים מלח ופלפל לבן ומערבבים היטב",
+    "מוסיפים בטטה ומערבבים עד שמצופה ברסק ובבצל",
+    "מוסיפים 5-6 כוסות מים, מכסים ומבשלים 20 דקות",
+    "מוסיפים חמאת בוטנים ומערבבים 3-4 דקות עד שהתבשיל אחיד וסמיך",
+    "מוסיפים טופו ותרד ומערבבים דקה-שתיים",
+    "מגישים לצד אורז או קינואה, ומקשטים בנדיבות בבוטנים וכוסברה"
+  ],
+  "sourceUrl": "https://tivoneat.co.il/african-peanut-stew/",
+  "sourceName": "TivonEat"
+}
